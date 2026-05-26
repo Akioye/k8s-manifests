@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/Akioye/k8s-manifests
-    targetRevision: main
+    targetRevision: master
     path: apps/myapp
 
   destination:
